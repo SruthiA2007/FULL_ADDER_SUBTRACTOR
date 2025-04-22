@@ -37,11 +37,12 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
-
 FULL ADDER
+
 ![image](https://github.com/user-attachments/assets/5ffb9aa3-0df1-4b15-b943-bd11e5f62a51)
 
 FULL SUBTRACTOR
+
 ![Screenshot 2025-04-22 223146](https://github.com/user-attachments/assets/deb5ba51-ae44-426f-9f02-1864520174ab)
 
 **Procedure**
@@ -55,6 +56,7 @@ Developed by: SRUTHI A
 
 RegisterNumber: 212224240162
 */
+
 FULL ADDER
 
 module fulladder(a,b,cin,sum,carry);
@@ -92,6 +94,7 @@ FULL SUBTRACTOR
 ![Screenshot 2025-04-22 223653](https://github.com/user-attachments/assets/2158b732-53e8-42ad-bb4f-384a1e5a6354)
 
 **Output Timing Waveform**
+
 FULL ADDER
 ![Screenshot 2025-04-22 223749](https://github.com/user-attachments/assets/735ba1f2-1bc5-438d-89a7-09e8de74d453)
 
